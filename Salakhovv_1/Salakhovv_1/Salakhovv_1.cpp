@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     string a;
+    cout << "Input smth: ";
     cin >> a;
     cout << a;
 }
